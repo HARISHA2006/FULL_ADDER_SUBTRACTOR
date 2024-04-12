@@ -37,10 +37,11 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-![image](https://github.com/23004513/FULL_ADDER_SUBTRACTOR/assets/138973069/73fd7b9e-ba95-4d5d-a22c-57d26c2b98eb)
+### FULL ADDER:
+![319872885-dd54108f-1714-4867-89a5-0df0355a6481](https://github.com/Keerthana-VJ/FULL_ADDER_SUBTRACTOR/assets/149347704/70ab9d61-1b55-4554-92c6-7616149ed263)
 
-
-![image](https://github.com/23004513/FULL_ADDER_SUBTRACTOR/assets/138973069/2d6d58dc-2b3a-40dc-a3b9-6fabb513cfed)
+### FULL SUBTRACTOR:
+![WhatsApp Image 2024-04-05 at 12 02 22 PM](https://github.com/Keerthana-VJ/FULL_ADDER_SUBTRACTOR/assets/149347704/7a14abc8-02db-4c8c-b853-b0683d4b4487)
 
 
 **Procedure**
@@ -97,12 +98,16 @@ endmodule
 ```
 
 **RTL Schematic**
-![image](https://github.com/23004513/FULL_ADDER_SUBTRACTOR/assets/138973069/df6f1b5c-0e1a-4308-8d3c-21f42c5a5ab7)
+### FULL ADDER:
+![318210459-fbb0551a-202f-4aae-a0de-d22f24506755](https://github.com/Keerthana-VJ/FULL_ADDER_SUBTRACTOR/assets/149347704/c2d5f25c-abc0-4243-b529-06309e5c32d5)
+### FULL SUBTRACTOR:
+![318210531-522a1f25-8b70-4139-bd45-47f235d74331](https://github.com/Keerthana-VJ/FULL_ADDER_SUBTRACTOR/assets/149347704/ef901cf2-aed3-4906-8efa-b51dc61e1d0b)
+
 **Output Timing Waveform**
-![image](https://github.com/23004513/FULL_ADDER_SUBTRACTOR/assets/138973069/eeb7b493-6373-443d-a955-a849c4117242)
-
-![image](https://github.com/23004513/FULL_ADDER_SUBTRACTOR/assets/138973069/b6a8bf48-6f36-40ea-a0a5-bc9e71cea5db)
-
+### FULL ADDER:
+![318210582-4a30573e-0766-4f04-8596-c4718b5d8241](https://github.com/Keerthana-VJ/FULL_ADDER_SUBTRACTOR/assets/149347704/6ad6f1b1-c4c0-4a83-b8ea-468ecd65adc0)
+### FULL SUBTRACTOR:
+![318210618-9f1e8407-b18d-4ba7-a52f-9c653098bc7a](https://github.com/Keerthana-VJ/FULL_ADDER_SUBTRACTOR/assets/149347704/28995fa5-c6d5-47a6-8ce5-576ccf187dc0)
 
 **Result:**
 
